@@ -166,5 +166,77 @@
     "cpuLoad": 0.3028564453125,
     "platform": "darwin",
     "uptime": 5204
+  },
+  {
+    "timestamp": 1754551287799,
+    "memoryTotal": 17179869184,
+    "memoryUsed": 17100931072,
+    "memoryFree": 78938112,
+    "memoryUsagePercent": 99.54051971435547,
+    "memoryEfficiency": 0.45948028564453125,
+    "cpuCount": 8,
+    "cpuLoad": 0.36810302734375,
+    "platform": "darwin",
+    "uptime": 5234
+  },
+  {
+    "timestamp": 1754551317800,
+    "memoryTotal": 17179869184,
+    "memoryUsed": 17087315968,
+    "memoryFree": 92553216,
+    "memoryUsagePercent": 99.46126937866211,
+    "memoryEfficiency": 0.5387306213378906,
+    "cpuCount": 8,
+    "cpuLoad": 0.29974365234375,
+    "platform": "darwin",
+    "uptime": 5264
+  },
+  {
+    "timestamp": 1754551347802,
+    "memoryTotal": 17179869184,
+    "memoryUsed": 17097703424,
+    "memoryFree": 82165760,
+    "memoryUsagePercent": 99.52173233032227,
+    "memoryEfficiency": 0.4782676696777344,
+    "cpuCount": 8,
+    "cpuLoad": 0.35711669921875,
+    "platform": "darwin",
+    "uptime": 5294
+  },
+  {
+    "timestamp": 1754551377805,
+    "memoryTotal": 17179869184,
+    "memoryUsed": 17098964992,
+    "memoryFree": 80904192,
+    "memoryUsagePercent": 99.5290756225586,
+    "memoryEfficiency": 0.47092437744140625,
+    "cpuCount": 8,
+    "cpuLoad": 0.56536865234375,
+    "platform": "darwin",
+    "uptime": 5324
+  },
+  {
+    "timestamp": 1754551407808,
+    "memoryTotal": 17179869184,
+    "memoryUsed": 17105420288,
+    "memoryFree": 74448896,
+    "memoryUsagePercent": 99.566650390625,
+    "memoryEfficiency": 0.433349609375,
+    "cpuCount": 8,
+    "cpuLoad": 0.41827392578125,
+    "platform": "darwin",
+    "uptime": 5354
+  },
+  {
+    "timestamp": 1754551437808,
+    "memoryTotal": 17179869184,
+    "memoryUsed": 17105797120,
+    "memoryFree": 74072064,
+    "memoryUsagePercent": 99.56884384155273,
+    "memoryEfficiency": 0.4311561584472656,
+    "cpuCount": 8,
+    "cpuLoad": 0.42413330078125,
+    "platform": "darwin",
+    "uptime": 5384
   }
 ]
